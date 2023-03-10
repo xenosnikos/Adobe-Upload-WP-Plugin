@@ -1,1 +1,3 @@
-# Adobe-Upload-WP-Plugin uploads files from WP-Form to Adobe Cloud
+# Adobe-Upload-WP-Plugin 
+
+This plugin uploads files from wpform to Adobe Cloud 
